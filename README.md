@@ -6,11 +6,7 @@
   Passionate about building practical projects, improving every day, and turning ideas into code.
 </p>
 
-<p align="center">
-  <a href="https://github.com/samu-meso">
-    <img src="https://img.shields.io/badge/GitHub-samu--meso-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cony03&color=000000&style=for-the-badge" alt="cony03" /> </p>
 
 <br>
 
@@ -70,8 +66,5 @@
   <a href="https://www.linkedin.com/in/TUO-LINKEDIN/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Discord-cony1407-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
