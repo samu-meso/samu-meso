@@ -62,20 +62,16 @@
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samu-meso&show_icons=true&theme=tokyonight&hide_border=true" alt="Samuele GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samu-meso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 <br>
 
 <h2 align="left">📫 Connect</h2>
 
 <p align="left">
-  <a href="https://github.com/samu-meso">GitHub</a>
+  <a href="https://www.linkedin.com/in/TUO-LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-cony1407-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
